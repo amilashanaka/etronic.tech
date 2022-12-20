@@ -1,3 +1,3 @@
 <?php
 
-echo "Comming soon ......";
+echo "Comming soon .. lest work";

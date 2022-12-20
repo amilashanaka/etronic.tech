@@ -1,3 +1,3 @@
 <?
 
-echo "Comming soon";
+echo "Comming soon ......";

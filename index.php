@@ -21,7 +21,7 @@ include_once './inc/slider.php';
                          data-whitespace="['normal','normal','normal','normal']" 
                          data-frames='[{"delay":1500,"speed":1200,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' 
                          data-responsive="on" 
-                         data-responsive_offset="on" style="z-index: 9;">Simple, Powerful and Lightweight  
+                         data-responsive_offset="on" style="z-index: 9;">laptop and Desktop Repair 
                     </div>
                     <!-- /.tp-caption -->
                     <div class="tp-caption font-weight-400 color-dark" 
@@ -36,7 +36,7 @@ include_once './inc/slider.php';
                          data-whitespace="['normal','normal','normal','normal']" 
                          data-frames='[{"delay":2000,"speed":1200,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' 
                          data-responsive="on" 
-                         data-responsive_offset="on" style="z-index: 9;">Free & secure messaging app available in multiplatform.  
+                         data-responsive_offset="on" style="z-index: 9;">get your quote today..   
                     </div>
                     <!-- /.tp-caption -->
                     <div class="tp-caption" 
@@ -50,7 +50,7 @@ include_once './inc/slider.php';
                          data-height="none" 
                          data-type="image" 
                          data-responsive_offset="on" style="z-index: 5;"><img 
-                            data-lazyload="" src="style/images/art/macbook2.png" 
+                            data-lazyload="" src="img/banner1.jpg" 
                             data-ww="['740','650','550','400']" 
                             data-hh="['422','388','314','228']" alt="" />  
                     </div>
@@ -66,8 +66,8 @@ include_once './inc/slider.php';
                          data-height="none" 
                          data-type="image" 
                          data-responsive_offset="on" style="z-index: 5;"><img 
-                            data-lazyload="" src="style/images/art/iphone4.png" 
-                            data-ww="['128','120','100','74']" 
+                            data-lazyload="" src="img/tes.png" 
+                            data-ww="['242','227','190','140']" 
                             data-hh="['242','227','190','140']" alt="" />  
                     </div>
                     <!-- /.tp-caption -->

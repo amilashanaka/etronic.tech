@@ -85,7 +85,7 @@ include_once './inc/slider.php';
         <!-- /.owl-carousel -->
         <div class="text-center">
             <h2 class="title-color color-gray">Our offering</h2>
-            <h3 class="display-3">The full service we are offering is specifically <br class="d-none d-lg-block" />designed to meet your business needs.</h3>
+            <h3 class="display-3">The full service we are offering is specifically <br class="d-none d-lg-block" />Onsite</h3>
         </div>
         <!-- /.text-center -->
         <div class="space40"></div>
